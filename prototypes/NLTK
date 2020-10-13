@@ -1,0 +1,6 @@
+https://youtu.be/9KZwRBg4-P0
+
+- Natural Language Tool Kit
+- Tuturial uses data scraped from website to 'train' bot
+- Ranks responses based on similarity score to question
+- Did not work very well. I think there were issues with similarity score
